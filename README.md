@@ -8,6 +8,8 @@ This is a practice web project, implemented with Spring Boot and Thymeleaf. It v
 
 Ongoing.
 
+Currently at 31:36 of [Building a Coronavirus tracker app with Spring Boot and Java - Java Brains Tutorial](https://www.youtube.com/watch?v=8hjNG9GZGnQ).
+
 ## Project Problems
 
 To come.
