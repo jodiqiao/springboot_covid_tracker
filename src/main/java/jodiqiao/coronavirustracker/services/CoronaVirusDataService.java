@@ -17,7 +17,7 @@ import java.net.http.HttpResponse;
 @Service // makes spring service
 public class CoronaVirusDataService {
 
-    private static String VIRUS_DATA_URL = "https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv";
+    private static String VIRUS_DATA_URL = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv";
 
     @PostConstruct // spring construct instance of service, after it's done, execute this method
     // Get data and parse it
